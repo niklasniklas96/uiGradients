@@ -284,6 +284,10 @@
         "colors": ["#215f00", "#e4e4d9"]
     },
     {
+        "name": "my",
+        "colors": ["#833ab4", "#fd1d1d", "#fcb045"]
+    },
+    {
         "name": "Aqualicious",
         "colors": ["#50C9C3", "#96DEDA"]
     },
